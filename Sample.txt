@@ -1,1 +1,3 @@
-    Sample file 
+    Sample file 2
+    to compare the files
+    
