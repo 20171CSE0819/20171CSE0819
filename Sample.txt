@@ -1,2 +1,2 @@
-    Sample file 2
-    to compare the files
+    Sample file 1
+    to compare the file
